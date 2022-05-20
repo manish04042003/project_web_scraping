@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Manish",
+    "last name": "kumar",
+    "age": 19,
+    "friends": ["nikita", "manishk", "harish"],
+    "address ": { "state": "delhi", "house No": "b-32" }
+  },
+  {
+    "name": "harish",
+    "last name": "kumar",
+    "age": 19,
+    "friends": ["nikita", "manishk", "manish"],
+    "address ": { "state": "delhi", "house No": "c 53/2" }
+  },
+  {
+    "name": "harsh",
+    "last name": "yadav",
+    "age": 19,
+    "friends": ["harish", "manishk", "manish"],
+    "address ": { "state": "delhimssms", "house No": "jswdw" }
+  },
+  {
+    "name": "nitin",
+    "last name": "snjnd s",
+    "age": 19,
+    "friends": ["harish", "manishk", "manish"],
+    "address ": { "state": "delhimssms", "house No": "jswdw" }
+  },
+  {
+    "name": "nitin",
+    "last name": "snjnd s",
+    "age": 19,
+    "friends": ["harish", "manishk", "manish"],
+    "address ": { "state": "delhimssms", "house No": "jswdw" }
+  }
+]
